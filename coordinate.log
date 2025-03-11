@@ -1,0 +1,13 @@
+Connected----->Node101-11-2022 23:08:53
+Connected----->Node201-11-2022 23:08:53
+Prepared----->sent to Node 1.01-11-2022 23:08:58
+awaiting----->vote...01-11-2022 23:08:58
+Prepared----->sent to Node 2.01-11-2022 23:09:01
+awaiting----->vote...01-11-2022 23:09:01
+Obtaining----->yes from Node101-11-2022 23:09:04
+Obtaining----->yes from Node101-11-2022 23:09:04
+Proceeding----->Transaction01-11-2022 23:09:04
+FinalizeCommit----->received from node1 01-11-2022 23:09:17
+sent commit----->Node1, so sending node201-11-2022 23:09:18
+FinalizeCommit----->received from node2 01-11-2022 23:09:21
+Transaction----->Successful01-11-2022 23:09:21
